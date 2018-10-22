@@ -7,4 +7,4 @@ SHA-512.
 
 - 2 Step) The program choose RANDOMLY one of the function above to encrypt the message.
 
-- 3 Step) The program return the encrypted message an the signature of the clear message.
+- 3 Step) The program return the encrypted message in OCTAL and the signature of the clear message in HEXADECIMAL.
